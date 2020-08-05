@@ -1,4 +1,4 @@
-### Hi there 👋, I am Caio, i'm from Brazil!
+### Hi there 👋, I am Caio, from Brazil.
 
 Currently Science **Computer Student**
 
