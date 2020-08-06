@@ -8,7 +8,7 @@ I'm currently learning :
 
 -  Front-end 
 	-  HTML, CSS and JavaScript
-	-  React
+	-  ReactJS
 
 -  Back-end 
 	- Java
