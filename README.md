@@ -16,5 +16,5 @@ I'm currently learning :
 	- Python
 
 - Mobile
-	-React Native
-	-Java on Android Studio
+	- React Native
+	- Java on Android Studio
