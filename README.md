@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Caio, from Brazil.
 
-Currently Science **Computer Student**
+Currently **Science Computer** Student
 
 Technology enthusiast 🚀
 
