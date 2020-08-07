@@ -14,3 +14,7 @@ I'm currently learning :
 	- Java
 	- NodeJS
 	- Python
+
+- Mobile
+	-React Native
+	-Java on Android Studio
