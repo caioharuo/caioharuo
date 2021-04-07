@@ -2,11 +2,11 @@
 <h3 align="center">Enthusiast of Technology and Web Development from São Paulo/Brasil</h3>
 
 <h4>
-Attending the fifth semester of Science Computing. 
+Attending the fifth semester of Science Computing.<br /> 
 	
-In my free time, I like to learn something new or play video game.
-	
-Currently I have been studying the most modern  Front-End technologies. 
+In my free time, I like to learn something new or play video game.<br /> 
+
+Currently I have been studying the most modern  Front-End technologies.<br /> 
 </h4>
 
 <h3>
