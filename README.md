@@ -17,15 +17,17 @@ Currently I have been studying the most modern  Front-End technologies.<br />
 <h3>
 🛠️  Others Knowledges
 </h3>
-- Sass
-- Bootstrap
-- Typescript
-- NextJS
-- Python
-- MySQL
-- PostgreSQL
-- React Native
-- Android Studio
+<ul>
+	<li>Sass</li>
+	<li>Bootstrap</li>
+	<li>Typescript</li>
+	<li>NextJS</li>
+	<li>Python</li>
+	<li>MySQL</li>
+	<li>PostgreSQL</li>
+	<li>React Native</li>
+	<li>Android Studio</li>
+</ul>
 
 <h3>
 📱 Contact
