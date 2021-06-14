@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
-<h3 align="center">Enthusiast of Technology and Web Development from São Paulo/Brasil</h3>
+<h3 align="center">Front-end Developer from São Paulo/Brasil</h3>
 
 <h4>
-Computer Science Student.<br /> 
-	
+Computer Science Student.<br /> <br />
+
 In my spare time, I like to learn something new or play video game.<br /> 
 
 Currently I have been studying the most modern Front-End technologies.<br /> 
@@ -17,6 +17,7 @@ Currently I have been studying the most modern Front-End technologies.<br />
 <h3>
 🛠️  Others Knowledges
 </h3>
+<img src="https://i.imgur.com/jv7VweS.gif" align="right" />
 <ul>
 	<li>NodeJS</li>
 	<li>Sass</li>
@@ -37,3 +38,10 @@ Currently I have been studying the most modern Front-End technologies.<br />
 
 <p>Connect with me:</p><a href="https://www.linkedin.com/in/caio-haruo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<br />
+<br />
+<div align="center">
+<a href="https://github.com/caioharuo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=caioharuo&show_icons=true&theme=dracula" height="170px" /></a>
+<a href="https://github.com/caioharuo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioharuo&layout=compact&theme=dracula" height="170px" /></a>
+</div>
+
