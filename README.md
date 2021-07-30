@@ -2,11 +2,10 @@
 <h3 align="center">Front-end Developer from São Paulo/Brasil</h3>
 
 <h4>
-Computer Science Student.<br /> <br />
+Computer Science 6th/8th<br /> <br />
 
-In my spare time, I like to learn something new or play video game.<br /> 
+In my spare time, I like to learn something new 📚 and play video game 🎮.<br /> 
 
-Currently I have been studying the most modern Front-End technologies.<br /> 
 </h4>
 
 <h3>
