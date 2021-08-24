@@ -35,7 +35,8 @@ In my spare time, I like to learn something new 📚 and play video game 🎮.<b
 📱 Contact
 </h3>
 
-<p>Connect with me:</p><a href="https://www.linkedin.com/in/caio-haruo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p>Connect with me on <a href="https://www.linkedin.com/in/caio-haruo/">LinkedIn</a></p>
+
 </a>
 <br />
 <br />
