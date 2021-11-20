@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I am Caio!</h1>
-<h3 align="center">Front-end Developer from São Paulo/Brazil</h3>
+<h1 align="center">Hello there 👋, I'm Caio!</h1>
 
 <h4>
 Computer Science 6th/8th<br /> <br />
 
-In my spare time, I like to learn something new 📚 and play video game 🎮.<br /> 
-
+Enthusiast of web development technologies.
+	
 </h4>
 
 <h3>
@@ -25,10 +24,6 @@ In my spare time, I like to learn something new 📚 and play video game 🎮.<b
 	<li>Typescript</li>
 	<li>React Native</li>
 	<li>NodeJS</li>
-	<li>Java</li>
-	<li>MySQL</li>
-	<li>PostgreSQL</li>
-	<li>Android Studio</li>
 </ul>
 
 <h3>
