@@ -36,7 +36,6 @@ Enthusiast of web development technologies.
 <br />
 <br />
 <div align="center">
-<a href="https://github.com/caioharuo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=caioharuo&show_icons=true&theme=dracula" height="170px" /></a>
-<a href="https://github.com/caioharuo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioharuo&layout=compact&theme=dracula" height="170px" /></a>
+
 </div>
 
