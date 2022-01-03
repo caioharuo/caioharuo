@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Caio!</h1>
 
 <h4>
-Computer Science 6th/8th<br /> <br />
+Computer Science 7th/8th<br /> <br />
 
 Enthusiast of web development technologies.
 	
