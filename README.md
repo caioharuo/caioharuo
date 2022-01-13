@@ -23,7 +23,6 @@ Enthusiast of web development technologies.
 	<li>Bootstrap</li>
 	<li>Typescript</li>
 	<li>React Native</li>
-	<li>NodeJS</li>
 </ul>
 
 <h3>
