@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Caio!</h1>
+<h1 align="center">Hello there 👋, I'm Caio Hatai!</h1>
 
 <h4>
 Computer Science 7th/8th<br /> <br />
