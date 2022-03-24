@@ -3,7 +3,7 @@
 - 💻 Computer Science 7th/8th;
 - 👨‍💻 Enthusiast of web development technologies;
 - ⚛️ ReactJS student and lover;
-- 🚀 Looking for the first job opportunity in the technology field.
+- 🚀 Front-End Developer at [Avanade](https://github.com/Avanade)
 
 ##
 
