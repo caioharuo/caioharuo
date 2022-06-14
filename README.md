@@ -1,4 +1,4 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="15px">, I'm Caio Hatai!</h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="48">, I'm Caio Hatai!</h1>
 
 - 💻 Computer Science 7th/8th;
 - 👨‍💻 Enthusiast of web development technologies;
