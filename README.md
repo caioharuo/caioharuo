@@ -1,9 +1,9 @@
-<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="48">, I'm Caio Hatai!</h1>
+<h1 align="center">Hello there <img src="https://emoji.discadia.com/emojis/15bcb71e-63fe-4f61-b5d1-bc8f596f35ed.gif" width="36">, I'm Caio Hatai!</h1>
 
-- 💻 Computer Science 7th/8th;
+- 🧡 Front-End Developer [@Avanade](https://github.com/Avanade);
+- 🎓 Bachelor in Computer Science;
 - 👨‍💻 Enthusiast of web development technologies;
-- ⚛️ ReactJS student and lover;
-- 🚀 Front-End Developer [@Avanade](https://github.com/Avanade)
+- ⚛️ ReactJS student and lover.
 
 ##
 
